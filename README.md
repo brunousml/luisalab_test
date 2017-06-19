@@ -5,11 +5,7 @@ Follows this link to create your virtualenv
 https://virtualenv.pypa.io/en/latest/userguide/
 
 ## Start Server
-This command will install dependencies with pip. After install dependencies he will run command
-runserver.
-
-PS: Check requirements.txt file to ensures all libs are installed. For example
- mysql libs and xml libs to your operational system.
+This command will install dependencies with pip. And will run command `runserver`.
 
 ```make start```
 
